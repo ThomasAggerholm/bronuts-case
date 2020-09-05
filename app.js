@@ -1,5 +1,5 @@
 const 
-    playbackConst = 1000,
+    playbackConst = 700,
     video = document.querySelector('[data-video]'),
     body = document.querySelector('body')
 
